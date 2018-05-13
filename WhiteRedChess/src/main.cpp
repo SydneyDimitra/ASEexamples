@@ -2,12 +2,10 @@
 #include <iostream>
 
 #include <memory>
-
 #include "Image.h"
 
 int main()
 {
-
   /*  unsigned char width;
     unsigned char height;
     std::cout<<"Enter a width:";
