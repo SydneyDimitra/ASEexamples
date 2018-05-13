@@ -14,6 +14,7 @@ int main()
     std::cin>>height;
 */
 
+//image width and height
 Image pic(700, 700);
 
 size_t checkSize = 10;
@@ -36,6 +37,6 @@ size_t checkSize = 10;
    pic.save ("TestRGB");
 
    pic.clearScreen (0,0,0);
-
+   	
    return EXIT_SUCCESS;
 }
